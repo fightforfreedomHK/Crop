@@ -32,7 +32,7 @@ README
 
 ## 使用方法
 ------
-第一步:
+# 第一步:
 你先從TG搵返張你想Cut嘅圖
 ![img](https://na.cx/i/37ULtNt.jpg)
 
