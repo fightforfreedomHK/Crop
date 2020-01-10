@@ -1,6 +1,20 @@
-# Crop
+README
+===========================
 
-使用方法
+****
+##目錄
+------
+* [介面介紹](#介面介紹)
+* [使用方法](#使用方法)
+
+##介面介紹
+------
+![img](https://na.cx/i/WCx9bpQ.jpg)
+```
+1. 選擇圖片按鈕
+
+
+##使用方法
 ------
 第一步:
 ```
@@ -30,17 +44,17 @@
 ```
 按確認就會自動生成岩先嘅圖出嚟
 ```
-![img]https://na.cx/i/MboHv5G.jpg[/img] 
+![img](https://na.cx/i/MboHv5G.jpg)
 ```
 生成完之後就會彈出你岩岩揀嘅輸出位置
 ```
-|*預設位置係你App嘅位置*|
+*預設位置係你App嘅位置*
 
 第六步:
 ```
 打開Word>>版面配置>>邊界>>自訂邊界>>Set上下左右嘅邊界做0
 ```
-![img](https://na.cx/i/2FAyCOs.jpg)
+![img](https://na.cx/i/2FAyCOs.jpg) 
 ```
 ![img](https://na.cx/i/CkNhj2T.jpg) 
 
